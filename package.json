@@ -1,0 +1,11 @@
+{
+  "name": "sample-mongoose-upsert",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.2.2"
+  }
+}
